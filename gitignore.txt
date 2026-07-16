@@ -1,3 +1,4 @@
+new-ig.txt
 amri-ignore.txt
 # ============================================================
 # .gitignore for FDP: Git for Academic Document Collaboration
